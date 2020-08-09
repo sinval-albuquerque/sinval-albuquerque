@@ -12,7 +12,7 @@
 :rocket:  &nbsp; I'm working at **Rocketseat**
 <br/> :purple_heart: &nbsp; Currently, I seek to collaborate with Front-end projects using React
 <br/> :blush: &nbsp; I can help you with CSS Grid Layout and Flexbox
-<br/> :computer: &nbsp; My stacks: ReactJS, Node.js, React Native & Typescript
+<br/> :computer: &nbsp; My stacks: ReactJS, Node.js, React Native & Typescript, JS
 
 [![Gmail Badge](https://img.shields.io/badge/-sinvalalb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sinvalalb@gmail.com)](mailto:sinvalalb@gmail.com)
 
