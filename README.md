@@ -1,5 +1,3 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
-
 # I'm **Sinval Albuquerque**, nice to meet you!
 
 ### About me
